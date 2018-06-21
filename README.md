@@ -1,6 +1,6 @@
 # TeamTreehouse FullStack JavaScript Techdegree Project2
 # Pagination and Content Filter
-![alt text](https://github.com/newKeating/FS-techdegree-project1-RandomQuoteGenerator/blob/master/Pass-confirmed.png)
+![alt text](https://github.com/newKeating/FS-techdegree-project2-Pagination/blob/master/Project2-Pass-Confirmed.png)
 
 ## About this Project
 In this project, you'll enhance the usability of a web page that has too much information. To make it easier to find information and read the page, you'll use progressive enhancement to add pagination.
